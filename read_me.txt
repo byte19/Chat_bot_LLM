@@ -3,3 +3,5 @@ pip install chromadb
 chroma run --host localhost --port 8000 --path ./my_chroma_data
 
 install other neecssary libraries
+
+run ingestion.py then stateless-bot.py
